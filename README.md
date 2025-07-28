@@ -7,7 +7,7 @@ None of the assets in the game are mine except for the game icon.
 I did add some of my own code after I had finished the tutorial, and added ideas that were not originally presented in the video.
 The game is designed by me, einaienaxp.
 
-I will probably upload a android release in a few days from now.
+I will probably upload an android release in a few days from now.
 
 To download the game, check out the releases for it on this repository and download the '.zip' file from there.
 Here's to hoping for a more independant project and a fruitful future, lads.
